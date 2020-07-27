@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "beer_smile",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "89e90da0-e5fc-41e1-8188-c65aafb53957"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "b5762908-4490-40cd-bee5-3c76efc1a834"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "d8fceba6-aa41-409a-8a6a-b6a46ff886d7"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "7a267727-7673-4ee4-bb2c-adf3ea61c3a6"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "b493cbee-a4bd-41a4-a882-1536a3697cae"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "c813c87c-4116-4333-8541-c5fdd5bea645"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
